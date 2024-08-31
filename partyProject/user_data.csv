@@ -1,0 +1,28 @@
+Name ,Surname,Email,Password,Role,Gendnder,Age
+Lindelwa,Maseko,lindelwamaseko@mail.com,password,admin,Male,18-29
+John,Doe,johndoe@mail.com,password,user,Male,30-45
+Jane,Smith,janesmith@mail.com,janesmith,user,Female,Over 45
+Peter,Kingston,peterkingston@mail.com,Kingston,user,Male,30-45
+James ,Seth,james seth@mail.com,Seth,user,Male,30-45
+Tony,Abel,tonyabel@mail.com,Abel,user,Male,30-45
+Angela,Martin,angelamartin@mail.com,Martin,user,Female,18-29
+Kingsley,Lauren,kingsleylauren@mail.com,Lauren,user,Male,18-29
+Bob,Dodge,bobdodge@mail.com,Dodge,user,Male,30-45
+Frank,Wardman,frankwardman@mail.com,Wardman,user,Male,Over 45
+Esther,Bob,estherbob@mail.com,Bob,user,Female,Over 45
+Yvonne,Willman,yvonnewillman@mail.com,Willman,user,Female,18-29
+Samson,Edgeson,samsonedgeson@mail.com,Edgeson,user,Male,30-45
+Joshua,Mannan,joshuamannan@mail.com,Mannan,user,Male,Over 45
+Kate,Dyke,katedyke@mail.com,Dyke,user,Female,30-45
+Hannah,Dyce,hannahdyce@mail.com,Dyce,user,Female,30-45
+Henretta,Blake,henrettablake@mail.com,Blake,user,Female,30-45
+Martina,Luke,martinaluke@mail.com,Luke,user,Female,18-29
+Roselyn,Taylor,roselyntaylor@mail.com,Taylor,user,Female,18-29
+Thelma,Adams,thelmaadams@mail.com,Adams,user,Female,30-45
+Cynthia,Yusuf,cynthiayusuf@mail.com,Yusuf,user,Female,Over 45
+Robert,Song,robertsong@mail.com,Song,user,Male,Over 45
+Magreth,Thatcher,magreththatcher@mail.com,Thatcher,user,Female,18-29
+Louis,Lander,louislander@mail.com,Lander,user,Male,18-29
+Fred,Amstrong,fredamstrong@mail.com,Amstrong,user,Male,18-29
+Amy,Dragging,amydragging@mail.com,Dragging,user,Female,18-29
+Wilson,Smith,wilsonsmith@mail.com,Smith,user,Male,30-45
