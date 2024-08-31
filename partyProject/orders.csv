@@ -1,0 +1,11 @@
+Email,Delivery_Address,Order_Date,Delivery_Date,Delivery_Time,Package,No_of_people,Status
+lindelwamaseko@mail.com,4 Fela Close Asaba,2024/8/28,2024/11/5,15h00,Nigerian,20,PENDING
+johndoe@mail.com,4 Fela Close Asaba,2024/6/5,2024/8/28,18h00,Ghanian,10,COMPLETED
+janesmith@mail.com,4 Fela Close Asaba,2024/7/28,2024/8/31,16h00,Nigerian,15,IN PROGRESS
+peterkingston@mail.com,4 Fela Close Asaba,2024/7/7,2024/12/2,15h00,Swedish,20,PENDING
+johndoe@mail.com,4 Fela Close Asaba,2024/8/3,2024/8/29,19h00,Nigerian,5,IN PROGRESS
+tonyabel@mail.com,4 Fela Close Asaba,2024/7/28,2024/8/27,15h00,Swedish,6,COMPLETED
+angelamartin@mail.com,4 Fela Close Asaba,2024/6/8,2024/8/28,15h00,Cameroonian,9,COMPLETED
+kingsleylauren@mail.com,4 Fela Close Asaba,2024/7/15,2024/9/13,15h00,Ghanian,15,PENDING
+johndoe@mail.com,4 Fela Close Asaba,2024/8/6,2024/8/28,11h00,Ghanian,18,COMPLETED
+angelamartin@mail.com,4 Fela Close Asaba,2024/8/4,2024/8/31,12h00,Swedish,11,IN PROGRESS
